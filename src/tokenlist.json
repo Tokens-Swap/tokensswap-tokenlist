@@ -47,6 +47,38 @@
             "decimals": 18,
             "chainId": 84531,
             "logoURI": "https://raw.githubusercontent.com/Tokens-Swap/tokensswap-tokenlist/master/logos/tos.png"
+        },
+        {
+            "name": "Test Token",
+            "address": "0xec51c7B5456C16bF99De836dCd1a2068Fb282301",
+            "symbol": "TEST",
+            "decimals": 18,
+            "chainId": 84531,
+            "logoURI": "https://raw.githubusercontent.com/Tokens-Swap/tokensswap-tokenlist/master/logos/tos.png"
+        },
+        {
+            "name": "USDC Token",
+            "address": "0xB37A5498A6386b253FC30863A41175C3f9c0723B",
+            "symbol": "USDC",
+            "decimals": 18,
+            "chainId": 84531,
+            "logoURI": "https://raw.githubusercontent.com/Tokens-Swap/tokensswap-tokenlist/master/logos/tos.png"
+        },
+        {
+            "name": "Chainlink",
+            "address": "0x6D0F8D488B669aa9BA2D0f0b7B75a88bf5051CD3",
+            "symbol": "LINK",
+            "decimals": 18,
+            "chainId": 84531,
+            "logoURI": "https://raw.githubusercontent.com/Tokens-Swap/tokensswap-tokenlist/master/logos/tos.png"
+        },
+        {
+            "name": "USDT Token",
+            "address": "0x6440c59d7c7c108d3Bb90E4bDeeE8262c975858a",
+            "symbol": "USDT",
+            "decimals": 18,
+            "chainId": 84531,
+            "logoURI": "https://raw.githubusercontent.com/Tokens-Swap/tokensswap-tokenlist/master/logos/tos.png"
         }
     ]
 }
